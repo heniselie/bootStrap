@@ -1,4 +1,11 @@
 body {
-    background-color:greenyellow;
+    background-color:goldenrod;
   }
   
+  .card-img-top {
+      max-height: 250px;
+  }
+
+  .card {
+      margin: 1em 0;
+  }
